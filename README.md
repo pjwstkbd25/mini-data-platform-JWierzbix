@@ -1,8 +1,8 @@
-#Uruchamianie projektu:
+**Uruchamianie projektu:**
 
 1. Uruchom docker-compose 
 
-'docker-compose up'
+`docker-compose up`
 
 2. (opcjonalne) nawiąz połączenie kafka-managera z clustrem kafki.
 
@@ -14,4 +14,4 @@
 
 6. W celu zamknięcia systemu uzyj komendy:
 
-'docker-compose down'
+`docker-compose down`
